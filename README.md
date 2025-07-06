@@ -114,10 +114,10 @@ My approach to exploring the Netflix dataset involved the following steps:
 
 ```bash
 # 1. Clone the repository (assuming this notebook is part of a larger repository)
-git clone <repository_url>
+git clone https://github.com/AhsanNFt/Netflix-Movies-TV-Shows-Exploration.git
 
 # 2. Navigate to the project directory
-cd <project_directory>
+cd Netflix-Movies-TV-Shows-Exploration
 
 # 3. Open the notebook
 jupyter notebook Netflix_Movies_TV_Shows_Exploration.ipynb
