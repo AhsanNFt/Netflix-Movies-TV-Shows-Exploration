@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview & Task Objective
 
-This notebook explores the Netflix Movies and TV Shows dataset to uncover insights such as content distribution over time, type proportions (Movie vs TV Show), genre popularity, rating categories, content-producing countries, and content durations. The primary objective is to understand Netflix's content strategy using exploratory data analysis (EDA).
+This `Netflix_Movies_TV_Shows_Exploration_Dev.ipynb` explores the Netflix Movies and TV Shows dataset to uncover insights such as content distribution over time, type proportions (Movie vs TV Show), genre popularity, rating categories, content-producing countries, and content durations. The primary objective is to understand Netflix's content strategy using exploratory data analysis (EDA).
 
 ## 📂 Dataset Information
 
@@ -63,20 +63,52 @@ My approach to exploring the Netflix dataset involved the following steps:
 - S E A B O R N
 
 ## 📉 Visualizations
+### Distribution of Movies vs TV Shows
+![image](https://github.com/user-attachments/assets/140d7e59-b01c-465b-a8bd-e87ebe2f2f8d)
 
+**Insights:** Netflix hosts 69.1% Movies and 30.9% TV Shows, indicating a strong focus on film content.
+
+### Top 10 Content Ratings
+![image](https://github.com/user-attachments/assets/cfe987d2-e612-46fe-8cae-72bc925216e1)
+
+**Insight:**  TV-MA and TV-14 are the most frequent, showing a large amount of teen and adult-oriented content.
+
+### Top 10 Most Common Genres on Netflix
+![image](https://github.com/user-attachments/assets/92448af5-a8cf-4ef3-8b35-540cb1177d5c)
+
+**Insight:** Netflix's top genres are International Movies, Dramas, Comedies, and Documentaries, showing they cater to varied interests.
+
+### Content Releases Over the Years
+![image](https://github.com/user-attachments/assets/189504d7-fc96-4b61-b671-59330b6e989f)
+
+**Insight:** Most content was released post-2000, with peaks around 2016–2020. Netflix’s recent growth is significant.
+
+### Top 10 Countries Producing Netflix Content
+![image](https://github.com/user-attachments/assets/3b08a354-9764-4756-8413-72bd1184b6ea)
+
+**Insight:** USA is the leading content producer, with India and the U.K. also major contributors, proving Netflix's worldwide reach.
 
 ## 📊 Results and Insights
 
-### Key Insights:
-  - The analysis revealed trends in Netflix's content acquisition over the years, with a significant increase in recent times.
-  - The proportion of movies versus TV shows was identified, showing the dominant content type.
-  - Popular genres and content ratings were highlighted, providing insights into audience preferences.
-  - Key contributing countries were identified, indicating global content sourcing.
-  - Distribution of content durations provided insights into typical movie lengths and TV show season counts.
-    
-### Final Outcome:
-  - This project successfully demonstrates a comprehensive EDA workflow for understanding a streaming content dataset.
-  - The insights gained can inform content strategy and acquisition decisions for streaming platforms.
+- Netflix mostly has movies, many of them for adults (TV-MA).
+
+- Most content is from the United States, but shows and movies from India, the UK, and other countries       are growing.
+
+- The most popular genres are:
+
+   - International Movies
+
+   - Dramas
+
+   - Comedies
+
+   - International Dramas
+
+   - Documentaries
+
+- A lot of content was added after 2016, showing Netflix's fast growth.
+
+- Netflix is offering more global and diverse content over time.
 
 ## 🧪 Usage
 
@@ -100,5 +132,5 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 For questions or collaboration:
 - GitHub: `AhsanNFt`
-- Email: `syedahsan0991@gmail.com`
+- Email: syedahsan0991@gmail.com
 
